@@ -1,0 +1,2 @@
+test2
+d/oss1.git denied to agnt-s.
